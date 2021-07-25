@@ -1,1 +1,4 @@
 *.aws-sam
+*.venv
+samconfig.toml
+Lambda-functions/sam-app-wiki/wiki/*/
